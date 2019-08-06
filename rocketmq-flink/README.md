@@ -1,4 +1,4 @@
-# RocketMQ-Flink
+# RocketMQ-Flink  //注释学习 @liukeyu
 
 RocketMQ integration for [Apache Flink](https://flink.apache.org/). This module includes the RocketMQ source and sink that allows a flink job to either write messages into a topic or read from topics in a flink job.
 
